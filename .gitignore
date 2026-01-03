@@ -1,0 +1,29 @@
+# dependencies
+/vendor/
+composer.lock
+
+# Logs and temporary files
+*.log
+*.cache
+*.tmp
+*.swp
+*.bak
+
+# IDEs
+.idea/
+*.iml
+*.vscode/
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+/tests/_output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage / test reports
+coverage/
+build/
